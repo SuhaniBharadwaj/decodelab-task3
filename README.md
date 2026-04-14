@@ -20,5 +20,7 @@ The project builds upon previous tasks and introduces dynamic behavior in the we
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
+- ## Demo live
+- https://decodelabs-task3.netlify.app/
 
 ## 📂 Project Structure
