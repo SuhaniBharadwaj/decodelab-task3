@@ -32,7 +32,7 @@ It further improves the design and structure of the previous tasks with better U
 
 👩‍💻 Author
 
-Suhani Bharadwaj
+Suhani Bhardwaj
 
 
 
